@@ -1,0 +1,51 @@
+body {
+background: #ffffff;
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-right: 2px;
+	margin-bottom: 2px;
+	
+
+}
+.table_border {
+font-size:12px;
+}
+th {
+font-size:12px;
+white-space:normal;
+}
+td {
+font-size:12px;
+}
+.SmallNew {
+	font-size:12px;
+}
+
+.Submit {
+display:none;
+}
+.Button {
+display:none;
+}
+.btnlite {
+display:none;
+}
+.btnmain {
+display:none;
+}
+.rowlink, .rowlink a {
+	display:table-column;
+}
+.pagenav {
+display:none;
+}
+.result_filter {
+display:none;
+}
+.headersorter {
+display:none;
+}
+
+.headersorter img {
+display:none;
+}

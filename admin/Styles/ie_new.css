@@ -1,0 +1,21 @@
+
+legend {
+margin-bottom: 20px;
+}
+* html .Content {
+height: 500px;
+}
+* html #Menu li a { /* List item link */
+float: left;
+padding-bottom: 6px;
+}
+* html #Menu li.HasSubMenu a { /* List item link with sub nav */
+float: left;
+padding-bottom: 6px;
+}
+* html #Menu li.HasSubMenu ul li a { /* Sub list item link - Same width as li ul */
+padding-bottom: 0;
+}
+* html .panel.gradient {
+/*height: 500px;*/
+}
